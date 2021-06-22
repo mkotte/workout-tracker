@@ -29,3 +29,8 @@ The user should be able to:
 
 ## Work in Progress Challenges
 * Seeding to heroku, continues to time out during seeding process.
+
+## Links
+Deployed Application(Heroku): https://radiant-garden-63274.herokuapp.com/
+
+GitHub Repository: https://github.com/mkotte/workout-tracker
