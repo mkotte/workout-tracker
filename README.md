@@ -22,7 +22,7 @@ The user should be able to:
 ## Completed Work
 * Deployed successfully using Heroku and MongoDB Atlas
 * Used mongoose to create a model and schema
-* Created Get, Post, Put, routes to interact with correct api's using Express + Async/Await
+* Created Get, Post, and Put routes to interact with correct api's using Express + Async/Await
 * Successfully tested and proved route's effectiveness using Insomnia
 * Initialized, seeded and ran server using Node.js
 
