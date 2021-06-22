@@ -25,3 +25,7 @@ The user should be able to:
 * Created Get, Post, Put, routes to interact with correct api's using Express + Async/Await
 * Successfully tested and proved route's effectiveness using Insomnia
 * Initialized, seeded and ran server using Node.js
+
+
+## Work in Progress Challenges
+* Seeding to heroku, continues to time out during seeding process.
